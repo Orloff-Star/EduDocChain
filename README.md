@@ -1,0 +1,1 @@
+EduDocChain is a digital platform for generating, storing and issuing electronic educational documents. The service is intended for online schools, colleges, universities and B2B partners that issue diplomas, certificates and certificates.
